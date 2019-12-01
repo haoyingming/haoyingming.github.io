@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HaoYingMing</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://haoyingming.github.io.git/"/>
+  <updated>2019-11-28T14:17:59.758Z</updated>
+  <id>https://haoyingming.github.io.git/</id>
+  
+  <author>
+    <name>Hao YingMing</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="https://haoyingming.github.io.git/post/2019-11-28-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://haoyingming.github.io.git/post/2019-11-28-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2019-11-28T14:03:44.533Z</published>
+    <updated>2019-11-28T14:17:59.758Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;title: 我的第一篇博客文章&lt;br&gt;date: 2019-11-28
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
